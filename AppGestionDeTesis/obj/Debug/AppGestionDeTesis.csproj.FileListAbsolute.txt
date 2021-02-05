@@ -1,0 +1,45 @@
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\bin\Debug\AppGestionDeTesis.exe.config
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\bin\Debug\AppGestionDeTesis.exe
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\bin\Debug\AppGestionDeTesis.pdb
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\bin\Debug\LibFormularios.dll
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\bin\Debug\LibClases.dll
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\bin\Debug\LibFormularios.pdb
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\bin\Debug\LibClases.pdb
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.csprojAssemblyReference.cache
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.Properties.Resources.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.csproj.GenerateResource.cache
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.csproj.CopyComplete
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.exe
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.pdb
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.Form1.resources
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\bin\Debug\AppGestionDeTesis.exe.config
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\bin\Debug\AppGestionDeTesis.exe
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\bin\Debug\AppGestionDeTesis.pdb
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\bin\Debug\LibFormularios.dll
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\bin\Debug\LibClases.dll
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\bin\Debug\LibFormularios.pdb
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\bin\Debug\LibClases.pdb
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.csprojAssemblyReference.cache
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.Properties.Resources.resources
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.csproj.GenerateResource.cache
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.csproj.CoreCompileInputs.cache
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.csproj.CopyComplete
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.exe
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.pdb
+D:\Desarrollo de Software\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.FrmGestionTesis.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\bin\Debug\AppGestionDeTesis.exe.config
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\bin\Debug\AppGestionDeTesis.exe
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\bin\Debug\AppGestionDeTesis.pdb
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\bin\Debug\LibFormularios.dll
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\bin\Debug\LibClases.dll
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\bin\Debug\LibFormularios.pdb
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\bin\Debug\LibClases.pdb
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.csprojAssemblyReference.cache
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.FrmGestionTesis.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.Properties.Resources.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.csproj.GenerateResource.cache
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.csproj.CopyComplete
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.exe
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\AppGestionDeTesis\obj\Debug\AppGestionDeTesis.pdb

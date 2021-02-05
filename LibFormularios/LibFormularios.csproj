@@ -55,11 +55,29 @@
     <Compile Include="FrmPadre.Designer.cs">
       <DependentUpon>FrmPadre.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmRequisitos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRequisitos.Designer.cs">
+      <DependentUpon>FrmRequisitos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRequisitoTramite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRequisitoTramite.Designer.cs">
+      <DependentUpon>FrmRequisitoTramite.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmTesista.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmTesista.Designer.cs">
       <DependentUpon>FrmTesista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTramites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTramites.Designer.cs">
+      <DependentUpon>FrmTramites.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
@@ -81,8 +99,17 @@
     <EmbeddedResource Include="FrmPadre.resx">
       <DependentUpon>FrmPadre.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmRequisitos.resx">
+      <DependentUpon>FrmRequisitos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRequisitoTramite.resx">
+      <DependentUpon>FrmRequisitoTramite.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmTesista.resx">
       <DependentUpon>FrmTesista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTramites.resx">
+      <DependentUpon>FrmTramites.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

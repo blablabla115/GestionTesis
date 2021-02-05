@@ -139,7 +139,7 @@
             this.MinimizeBox = false;
             this.Name = "FrmPadre";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FrmPadre";
+            this.Text = "SISTEMA DE GESTION DE TESIS";
             this.panelDeBotones.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);

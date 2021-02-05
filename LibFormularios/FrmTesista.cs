@@ -77,10 +77,9 @@ namespace LibFormularios
         {
             ProcesarClave();
         }
-        private void FrmLibro_Load(object sender, EventArgs e)
+        private void FrmTesista_Load(object sender, EventArgs e)
         {
             ListarRegistros();
         }
-
     }
 }

@@ -1,0 +1,44 @@
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\bin\Debug\LibFormularios.dll
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\bin\Debug\LibFormularios.pdb
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\bin\Debug\LibClases.dll
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\bin\Debug\LibClases.pdb
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\obj\Debug\LibFormularios.csprojAssemblyReference.cache
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\obj\Debug\LibFormularios.FrmDocente.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\obj\Debug\LibFormularios.FrmPadre.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\obj\Debug\LibFormularios.FrmTesista.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\obj\Debug\LibFormularios.csproj.GenerateResource.cache
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\obj\Debug\LibFormularios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\obj\Debug\LibFormularios.csproj.CopyComplete
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\obj\Debug\LibFormularios.dll
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto\LibFormularios\obj\Debug\LibFormularios.pdb
+D:\Desarrollo de Software\Proyecto\LibFormularios\bin\Debug\LibFormularios.dll
+D:\Desarrollo de Software\Proyecto\LibFormularios\bin\Debug\LibFormularios.pdb
+D:\Desarrollo de Software\Proyecto\LibFormularios\bin\Debug\LibClases.dll
+D:\Desarrollo de Software\Proyecto\LibFormularios\bin\Debug\LibClases.pdb
+D:\Desarrollo de Software\Proyecto\LibFormularios\obj\Debug\LibFormularios.csprojAssemblyReference.cache
+D:\Desarrollo de Software\Proyecto\LibFormularios\obj\Debug\LibFormularios.FrmDocente.resources
+D:\Desarrollo de Software\Proyecto\LibFormularios\obj\Debug\LibFormularios.FrmPadre.resources
+D:\Desarrollo de Software\Proyecto\LibFormularios\obj\Debug\LibFormularios.FrmTesista.resources
+D:\Desarrollo de Software\Proyecto\LibFormularios\obj\Debug\LibFormularios.csproj.GenerateResource.cache
+D:\Desarrollo de Software\Proyecto\LibFormularios\obj\Debug\LibFormularios.csproj.CoreCompileInputs.cache
+D:\Desarrollo de Software\Proyecto\LibFormularios\obj\Debug\LibFormularios.csproj.CopyComplete
+D:\Desarrollo de Software\Proyecto\LibFormularios\obj\Debug\LibFormularios.dll
+D:\Desarrollo de Software\Proyecto\LibFormularios\obj\Debug\LibFormularios.pdb
+D:\Desarrollo de Software\Proyecto\LibFormularios\obj\Debug\LibFormularios.Properties.Resources.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\bin\Debug\LibFormularios.dll
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\bin\Debug\LibFormularios.pdb
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\bin\Debug\LibClases.dll
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\bin\Debug\LibClases.pdb
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.csprojAssemblyReference.cache
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.FrmDocente.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.FrmPadre.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.FrmTesista.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.Properties.Resources.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.csproj.GenerateResource.cache
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.csproj.CopyComplete
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.dll
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.pdb
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.FrmRequisitos.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.FrmRequisitoTramite.resources
+C:\Users\Usuario\usuario_alojado\Desarrollo_de_software\Proyecto1\Proyecto\LibFormularios\obj\Debug\LibFormularios.FrmTramites.resources

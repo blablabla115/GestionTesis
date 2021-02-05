@@ -36,7 +36,6 @@
             this.ApellidoPaterno = new System.Windows.Forms.TextBox();
             this.ApellidoMaterno = new System.Windows.Forms.TextBox();
             this.DNI = new System.Windows.Forms.TextBox();
-            this.CarreraProfesional = new System.Windows.Forms.TextBox();
             this.FechaNacimiento = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -45,6 +44,7 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.CarreraProfesional = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.Table)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -59,10 +59,13 @@
             // 
             // Table
             // 
+            this.Table.AllowUserToAddRows = false;
+            this.Table.AllowUserToDeleteRows = false;
             this.Table.BackgroundColor = System.Drawing.Color.White;
             this.Table.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.Table.Location = new System.Drawing.Point(12, 304);
             this.Table.Name = "Table";
+            this.Table.ReadOnly = true;
             this.Table.Size = new System.Drawing.Size(730, 163);
             this.Table.TabIndex = 7;
             // 
@@ -116,14 +119,6 @@
             this.DNI.Name = "DNI";
             this.DNI.Size = new System.Drawing.Size(120, 22);
             this.DNI.TabIndex = 13;
-            // 
-            // CarreraProfesional
-            // 
-            this.CarreraProfesional.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CarreraProfesional.Location = new System.Drawing.Point(423, 248);
-            this.CarreraProfesional.Name = "CarreraProfesional";
-            this.CarreraProfesional.Size = new System.Drawing.Size(262, 22);
-            this.CarreraProfesional.TabIndex = 14;
             // 
             // FechaNacimiento
             // 
@@ -203,12 +198,24 @@
             this.pictureBox1.TabIndex = 22;
             this.pictureBox1.TabStop = false;
             // 
+            // CarreraProfesional
+            // 
+            this.CarreraProfesional.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.CarreraProfesional.FormattingEnabled = true;
+            this.CarreraProfesional.Items.AddRange(new object[] {
+            "Ing. Informática y de sistemas"});
+            this.CarreraProfesional.Location = new System.Drawing.Point(423, 248);
+            this.CarreraProfesional.Name = "CarreraProfesional";
+            this.CarreraProfesional.Size = new System.Drawing.Size(262, 21);
+            this.CarreraProfesional.TabIndex = 23;
+            // 
             // FrmTesista
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Tan;
             this.ClientSize = new System.Drawing.Size(749, 522);
+            this.Controls.Add(this.CarreraProfesional);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
@@ -217,7 +224,6 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.FechaNacimiento);
-            this.Controls.Add(this.CarreraProfesional);
             this.Controls.Add(this.DNI);
             this.Controls.Add(this.ApellidoMaterno);
             this.Controls.Add(this.ApellidoPaterno);
@@ -226,7 +232,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Table);
             this.Name = "FrmTesista";
-            this.Text = "SISTEMA DE GESTION DE TESIS";
+            this.Load += new System.EventHandler(this.FrmTesista_Load);
             this.Controls.SetChildIndex(this.Table, 0);
             this.Controls.SetChildIndex(this.label1, 0);
             this.Controls.SetChildIndex(this.CodTesista, 0);
@@ -234,7 +240,6 @@
             this.Controls.SetChildIndex(this.ApellidoPaterno, 0);
             this.Controls.SetChildIndex(this.ApellidoMaterno, 0);
             this.Controls.SetChildIndex(this.DNI, 0);
-            this.Controls.SetChildIndex(this.CarreraProfesional, 0);
             this.Controls.SetChildIndex(this.FechaNacimiento, 0);
             this.Controls.SetChildIndex(this.label2, 0);
             this.Controls.SetChildIndex(this.label3, 0);
@@ -243,6 +248,7 @@
             this.Controls.SetChildIndex(this.label6, 0);
             this.Controls.SetChildIndex(this.label7, 0);
             this.Controls.SetChildIndex(this.pictureBox1, 0);
+            this.Controls.SetChildIndex(this.CarreraProfesional, 0);
             ((System.ComponentModel.ISupportInitialize)(this.Table)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
@@ -259,7 +265,6 @@
         private System.Windows.Forms.TextBox ApellidoPaterno;
         private System.Windows.Forms.TextBox ApellidoMaterno;
         private System.Windows.Forms.TextBox DNI;
-        private System.Windows.Forms.TextBox CarreraProfesional;
         private System.Windows.Forms.TextBox FechaNacimiento;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
@@ -268,5 +273,6 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.ComboBox CarreraProfesional;
     }
 }

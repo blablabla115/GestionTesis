@@ -29,5 +29,23 @@ namespace AppGestionDeTesis
             Form Formulario = new FrmDocente();
             Formulario.Show();
         }
+
+        private void rEGISTRODEREQUISITOSToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form Formulario = new FrmRequisitos();
+            Formulario.Show();
+        }
+
+        private void rEGISTRODETRAMITESToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form Formulario = new FrmTramites();
+            Formulario.Show();
+        }
+
+        private void rEQUISITOSPORTRAMITEToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form Formulario = new FrmRequisitoTramite();
+            Formulario.Show();
+        }
     }
 }

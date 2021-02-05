@@ -23,7 +23,7 @@ namespace LibFormularios
         //-- Establecer los valores que iran a la tabla
         public override string[] AsignarValoresAtributos()
         {
-            return new string[] {CodDocente.Text, Nombre.Text, ApellidoPaterno.Text, ApellidoMaterno.Text, DNI.Text,Telefono.Text, cargo.Text};
+            return new string[] {CodDocente.Text, Nombre.Text, ApellidoPaterno.Text, ApellidoMaterno.Text, DNI.Text,Telefono.Text, Categoria.Text, depAcademico.Text, disponibilidad.Text};
 
         }
         //-----------------------------------------------------------
@@ -36,7 +36,9 @@ namespace LibFormularios
             ApellidoMaterno.Text = aEntidad.ValorAtributo("ApellidoMaterno");
             DNI.Text = aEntidad.ValorAtributo("DNI");
             Telefono.Text = aEntidad.ValorAtributo("telefono");
-            cargo.Text = aEntidad.ValorAtributo("Cargo");
+            Categoria.Text = aEntidad.ValorAtributo("Categoria");
+            depAcademico.Text = aEntidad.ValorAtributo("DepAcademico");
+            disponibilidad.Text = aEntidad.ValorAtributo("Disponibilidad");
         }
         //-----------------------------------------------------------
         //-- Iniciar los atributos clave y no clave en blanco
@@ -52,7 +54,9 @@ namespace LibFormularios
             ApellidoMaterno.Text = "";
             DNI.Text = "";
             Telefono.Text = "";
-            cargo.Text = "";
+            Categoria.Text = "";
+            depAcademico.Text = "";
+            disponibilidad.Text = "";
         }
         //-----------------------------------------------------------
         //-- Listar los registros y mostrarlos en el datagrid
@@ -74,7 +78,8 @@ namespace LibFormularios
         {
             ProcesarClave();
         }
-        private void FrmLibro_Load(object sender, EventArgs e)
+
+        private void FrmDocente_Load(object sender, EventArgs e)
         {
             ListarRegistros();
         }
